@@ -1,0 +1,33 @@
+{
+  "id": "BTMX",
+  "currency": "BTMX",
+  "symbol": "BTMX",
+  "name": "Bitmax Token",
+  "logo_url": "https://s3.us-east-2.amazonaws.com/nomics-api/static/images/currencies/BTMX.jpg",
+  "status": "active",
+  "price": 1.30395436,
+  "price_date": "2021-04-13T00:00:00Z",
+  "price_timestamp": "2021-04-13T18:41:00Z",
+  "circulating_supply": 749317256,
+  "max_supply": 749317256,
+  "market_cap": 977075500,
+  "num_exchanges": 7,
+  "num_pairs": 18,
+  "num_pairs_unmapped": 0,
+  "first_candle": "2019-03-26T00:00:00Z",
+  "first_trade": "2019-03-26T00:00:00Z",
+  "first_order_book": "2019-06-04T00:00:00Z",
+  "rank": 10,
+  "rank_delta": -2,
+  "high": 3.08617977,
+  "high_timestamp": "2021-03-27T00:00:00Z",
+  "'1d'": {
+    "volume": 5573647.74,
+    "price_change": -0.10284792,
+    "price_change_pct": -0.0731,
+    "volume_change": -5451760.59,
+    "volume_change_pct": -0.4945,
+    "market_cap_change": -77065724.22,
+    "market_cap_change_pct": -0.0731
+  }
+}
