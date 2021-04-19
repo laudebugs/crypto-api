@@ -48,7 +48,7 @@
     "graphql-pusher-subscriptions": "^0.1.1",
     "graphql-subscriptions": "^1.2.1",
     "mongodb": "^3.6.6",
-    "mongoose": "^5.12.3",
+    "mongoose": "^ 5.10.1",
     "nomics": "^0.5.7",
     "pusher": "^5.0.0",
     "reflect-metadata": "^0.1.13",
